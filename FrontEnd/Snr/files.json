@@ -1,0 +1,73 @@
+[
+    {
+        "id": 0,
+        "type": "txt",
+        "name": "customer brief"
+    },
+    {
+        "id": 1,
+        "type": "folder",
+        "name": "Carol Danvers",
+        "children": [
+            {
+                "id": 3,
+                "type": "jpeg",
+                "name": "council tax bill",
+                "uploaded": "07/01/2021"
+            },
+            {
+                "id": 4,
+                "type": "png",
+                "name": "council tax bill",
+                "uploaded": "08/02/2021"
+            },
+            {
+                "id": 5,
+                "type": "txt",
+                "name": "court summons",
+                "uploaded": "07/05/2021"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "type": "folder",
+        "name": "Bruce Banner",
+        "children": [
+            {
+                "id": 6,
+                "type": "png",
+                "name": "snuffles",
+                "uploaded": "07/05/2021"
+
+            },
+            {
+                "id": 7,
+                "type": "png",
+                "name": "payday loan statement",
+                "uploaded": "07/05/2022"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "type": "folder",
+        "name": "Daniel Craig",
+        "children": [
+            {
+                "id": 6,
+                "type": "png",
+                "name": "license to kill",
+                "uploaded": "01/02/2022"
+
+            },
+            {
+                "id": 7,
+                "type": "mp4",
+                "name": "caltrops refill reciept",
+                "uploaded": "30/05/2022"
+
+            }
+        ]
+    }
+]

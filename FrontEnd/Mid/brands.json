@@ -1,0 +1,14 @@
+{
+    "gregorypennington": {
+        "brandname": "GregoryPennington",
+        "colors": {
+            "primary": "#00418B"
+        }
+    },
+    "freemanjones": {
+        "brandname": "FreemanJones",
+        "colors": {
+            "primary": "#4A9C00"
+        }
+    } 
+}
